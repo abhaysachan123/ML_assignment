@@ -1,0 +1,7 @@
+Gaussian linear-regression MLE demonstration
+Number of observations: 10
+Intercept estimate: 2.345263
+Slope estimate: 1.431447
+Residual sum of squares: 9.039763
+MLE variance: 0.903976
+MLE standard deviation: 0.950777
